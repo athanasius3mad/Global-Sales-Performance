@@ -11,7 +11,7 @@ The analysis is built upon a robust dataset tracking **15,000 orders** from 2016
 * **Operational Data:** Sales Channels (Store, Online, Reseller, Catalog) and Time periods (Year, Quarter, Month).
 
 ## 📊 Interactive Dashboard Snapshot
-![Global Sales Dashboard](Screenshot 2025-11-18 203342.png)
+![Global Sales Dashboard](111.png)
 
 ## 🎯 Executive Summary (KPIs)
 The dashboard provides a high-level executive view with the following critical KPIs:
